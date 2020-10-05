@@ -1,4 +1,12 @@
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Clients
+.obsidian
+obsidian.css
+
+# macOS
+.DS_Store
